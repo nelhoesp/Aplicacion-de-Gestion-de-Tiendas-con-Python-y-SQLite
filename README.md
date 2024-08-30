@@ -1,4 +1,4 @@
-## Gestión de órdenes con Python
+## Aplicacion de Gestion de Tiendas con Python y SQLite
 
 Se desarrolla una aplicación completa para la gestión de las órdenes de compra de los clientes de una tienda, en una interfaz gráfica y una base de datos con la información de la empresa.
 
